@@ -1,1 +1,0 @@
-# Ammortization-schedule
